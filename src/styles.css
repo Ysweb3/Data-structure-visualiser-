@@ -1,3 +1,15 @@
 body{
-    background-color: rgb(101, 230, 31);
+    height: 100%;
+    margin: 0px;
+    background-color: rgba(255, 255, 255, 0.981);
+}
+html{
+    height:100%;
+    margin: 0px;
+}
+canvas{
+    border: 2px solid black;
+    display: block;
+    width: 100vw;
+    height: 100vh;
 }
