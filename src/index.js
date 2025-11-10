@@ -1,4 +1,5 @@
 import "./styles.css";
+import "./main.css";
 
 const canvas = document.getElementById("viz");
 
